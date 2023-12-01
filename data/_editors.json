@@ -12,7 +12,21 @@
             }
         ]
     }, 
-    {       "role": "dev",
+    {       
+            "role": "admin",
+            "members": [
+                {
+                    "name": "Catliest",
+                    "link": "https://www.youtube.com/channel/UCN-jIC06TrSIkJDRRvKyTwQ"
+                },
+                {
+                    "name": "Nxbulah",
+                    "link": "https://www.youtube.com/channel/UCKkpIwYFgkdnQBH14eerZYw"
+                }
+          ]
+    },
+    {                
+            "role": "dev",
             "members": [
                 {
                     "name": "Minebox260",

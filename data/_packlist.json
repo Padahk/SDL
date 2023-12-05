@@ -2,9 +2,9 @@
     {
         "name": "Natural Disaster Trilogy",
         "levels": [
-            "cyclone",
+            "tornado",
             "hurricane",
-            "tornado"
+            "cyclone"
         ],
         "colour": "linear-gradient(90deg, rgba(238,207,237,1) 0%, rgba(255,255,255,1) 46%, rgba(212,242,241,1) 100%)"
     },
@@ -126,9 +126,9 @@
     {
         "name": "Fish Pack",
         "levels": [
-            "fish_fish_godmode",
             "lodin_da_fish_washer",
-            "le_fishe"
+            "le_fishe",
+            "fish_fish_godmode"
         ],
         "colour": "url('https://www.msc.org/images/default-source/msc-english/content-banner/fish-to-eat/fish-to-eat---shorthand-style-912/herring_sh.tmb-labelhome.jpg?Status=Master&sfvrsn=864041bc_1')"
     },
@@ -225,25 +225,13 @@
         "colour": "linear-gradient(90deg, rgba(247,0,0,1) 0%, rgba(255,198,46,1) 46%, rgba(255,7,7,1) 100%)"
     },
     {
-        "name": "Begginer Pack",
+        "name": "Beginner Pack",
         "levels": [
             "hypersonic",
             "forbidden_isle",
             "misty_mountains"
         ],
         "colour": " linear-gradient(45deg, rgba(0,28,255,1) 0%, rgba(0,4,57,1) 10%, rgba(0,28,255,1) 20%, rgba(0,4,57,1) 30%, rgba(0,28,255,1) 40%, rgba(0,4,57,1) 50%, rgba(0,28,255,1) 60%, rgba(0,4,57,1) 70%, rgba(0,28,255,1) 80%, rgba(0,4,57,1) 90%, rgba(0,28,255,1) 100%)"
-    },
-    {
-        "name": "My 13th Reason",
-        "levels": [
-            "requiem",
-            "misfire",
-            "removed_submission",
-            "a1330x",
-            "plasma_pulse_iii",
-            "eternal_entropy"
-        ],
-        "colour": "url('https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/skull.png')"
     },
     {
         "name": "Terraria Pack",

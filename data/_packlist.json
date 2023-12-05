@@ -18,63 +18,58 @@
         "colour": "linear-gradient(45deg, rgba(0,0,0,1) 0%, rgba(0,255,3,1) 100%)"
     },
     {
-        "name": "Memory Pack II",
+        "name": "Krmal Pack",
         "levels": [
-            "super_probably_level",
-            "requiem",
-            "goner"
+            "night_rider",
+            "black_blizzard",
+            "falling_up"
         ],
-        
         "colour": "linear-gradient(45deg, rgba(0,0,0,1) 0%, rgba(255,0,0,1) 100%)"
     },
     {
-        "name": "Dorami Pack I",
+        "name": "Dorami Pack",
         "levels": [
-            "violently_x",
-            "firepower_mrlorenzo",
-            "elliptic_curve",
-            "empanadas_fugaces"
+            "idols",
+            "overtime",
+            "cytokinesis"
         ],
         "colour": "linear-gradient(45deg, rgba(252,0,255,1) 0%, rgba(255,252,0,1) 100%)"
     },
     {
-        "name": "Dorami Pack II",
+        "name": "Lower Case Pack I",
         "levels": [
-            "azure_fiesta",
-            "snowfall_fiesta",
-            "delebit_oblivio",
-            "the_yandere"
-        ],
-        "colour": "linear-gradient(45deg, rgba(252,0,255,1) 0%, rgba(255,252,0,1) 100%)"
-    },
-    {
-        "name": "KrmaL Pack I",
-        "levels": [
-            "conical_depression",
-            "elite_z_rebirth",
-            "heartbeat",
-            "falling_up"
-        ],
-        "colour": "linear-gradient(45deg, rgba(255,0,0,1) 0%, rgba(255,252,0,1) 50%, rgba(61,36,255,1) 100%)"
-    },
-    {
-        "name": "KrmaL Pack II",
-        "levels": [
-            "black_blizzard",
-            "low_death",
-            "xo"
+            "doradura",
+            "court_circuit",
+            "niflhel"
         ],
         "colour": "linear-gradient(45deg, rgba(128,132,181,1) 0%, rgba(163,112,167,1) 50%, rgba(235,238,148,1) 100%)"
     },
     {
-        "name": "ALL CAPS PACK 1",
+        "name": "Lower Case Pack II",
         "levels": [
-            "tantrum",
-            "glisten",
-            "fish_fish_godmode",
-            "kub"
+            "cytokinesis",
+            "headlock",
+            "night_party"
         ],
-        "colour": "linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,115,121,1) 49%, rgba(0,142,255,1) 100%)"
+        "colour": "linear-gradient(45deg, rgba(128,132,181,1) 0%, rgba(163,112,167,1) 50%, rgba(235,238,148,1) 100%)"
+    },
+    {
+        "name": "Lower Case Pack III",
+        "levels": [
+            "ruber_cash_22",
+            "help",
+            "corrupted_volume"
+        ],
+        "colour": "linear-gradient(45deg, rgba(128,132,181,1) 0%, rgba(163,112,167,1) 50%, rgba(235,238,148,1) 100%)"
+    },
+    {
+        "name": "Lower Case Pack IV",
+        "levels": [
+            "very rusty pipeline",
+            "lodin da fish washer",
+            "eternal entropy"
+        ],
+        "colour": "linear-gradient(45deg, rgba(128,132,181,1) 0%, rgba(163,112,167,1) 50%, rgba(235,238,148,1) 100%)"
     },
     {
         "name": "ALL CAPS PACK 2",

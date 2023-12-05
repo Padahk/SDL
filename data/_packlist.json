@@ -72,32 +72,40 @@
         "colour": "linear-gradient(45deg, rgba(128,132,181,1) 0%, rgba(163,112,167,1) 50%, rgba(235,238,148,1) 100%)"
     },
     {
-        "name": "ALL CAPS PACK 2",
+        "name": "ALL CAPS PACK I",
         "levels": [
-            "meltdown",
-            "plus_ultra",
-            "ilovecyan",
-            "rtx_on"
+            "cyclone",
+            "fish_fish_godmode",
+            "plus_ultra"
         ],
         "colour": "linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,115,121,1) 49%, rgba(0,142,255,1) 100%)"
     },
     {
-        "name": "RGB Pack",
+        "name": "ALL CAPS PACK II",
         "levels": [
-            "yatagarasu",
-            "erebus_rustam",
-            "sonic_wave"
+            "ex",
+            "subversive",
+            "hurricane"
         ],
-        "colour": "linear-gradient(45deg, rgba(255,0,0,1) 0%, rgba(255,136,0,1) 15%, rgba(245,255,0,1) 30%, rgba(0,255,12,1) 45%, rgba(0,255,243,1) 60%, rgba(16,0,255,1) 75%, rgba(255,0,241,1) 90%)"
+        "colour": "linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,115,121,1) 49%, rgba(0,142,255,1) 100%)"
     },
     {
-        "name": "New RGB Pack",
+        "name": "ALL CAPS PACK III",
         "levels": [
-            "tartarus",
-            "the_golden",
-            "sonic_wave_infinity"
+            "pure_vale",
+            "tornado",
+            "beeline_2p",
         ],
-        "colour": "linear-gradient(45deg, rgba(255,0,0,1) 0%, rgba(255,136,0,1) 15%, rgba(245,255,0,1) 30%, rgba(0,255,12,1) 45%, rgba(0,255,243,1) 60%, rgba(16,0,255,1) 75%, rgba(255,0,241,1) 90%)"
+        "colour": "linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,115,121,1) 49%, rgba(0,142,255,1) 100%)"
+    },
+    {
+        "name": "ALL CAPS PACK IV",
+        "levels": [
+            "abel",
+            "desolate",
+            "faulty_code"
+        ],
+        "colour": "linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,115,121,1) 49%, rgba(0,142,255,1) 100%)"
     },
     {
         "name": "Number Pack",
@@ -120,91 +128,11 @@
     {
         "name": "Beginner Pack",
         "levels": [
-            "acu",
-            "cataclysm",
-            "niwa"
-        ],
-        "colour": "linear-gradient(45deg, rgba(0,190,255,1) 0%, rgba(255,141,231,1) 50%, rgba(255,0,0,1) 100%)"
-    },
-    {
-        "name": "Outer Space Pack",
-        "levels": [
-            "phobos",
-            "deimos_endlevel",
-            "quaoar_flosia",
-            "quaoar_viprin"
-        ],
-        "colour": "linear-gradient(45deg, rgba(255,0,0,1) 0%, rgba(223,36,255,1) 50%, rgba(255,242,252,1) 100%)"
-    },
-    {
-        "name": "Cognition Pack",
-        "levels": [
-            "oblivion",
-            "cognition",
-            "carcano"
-        ],
-        "colour": "linear-gradient(45deg, rgba(0,245,255,1) 0%, rgba(0,112,255,1) 50%, rgba(105,3,172,1) 100%)"
-    },
-    {
-        "name": "Hack Verified Pack",
-        "levels": [
-            "minimum",
-            "slaughterhouse",
-            "zodiac",
-            "devil_vortex",
-            "sonic_wave",
-            "launchpad_labyrinth",
-            "le_fishe",
-            "phobos",
-            "ego_killing",
-            "zaphkiel",
-            "cataclysm",
-            "the_ultimate_phase",
-            "mujigae",
-            "sakupen_hell",
-            "fexty",
-            "red_world"
-        ],
-        "colour": "linear-gradient(90deg, rgba(36,64,29,1) 0%, rgba(7,255,0,1) 46%, rgba(36,64,29,1) 100%)"
-    },
-    {
-        "name": "Norse Mythology Pack",
-        "levels": [
-            "ragnarok",
-            "niflheim",
-            "mjolnir",
-            "niflhel"
-        ],
-        "colour": "linear-gradient(90deg, rgba(143,0,247,1) 0%, rgba(255,159,254,1) 46%, rgba(255,0,179,1) 100%)"
-    },
-    {
-        "name": "Greek Mythology Pack",
-        "levels": [
-            "acheron",
-            "tartarus",
-            "promethean",
-            "keres"
-        ],
-        "colour": "linear-gradient(90deg, rgba(247,0,0,1) 0%, rgba(255,198,46,1) 46%, rgba(255,7,7,1) 100%)"
-    },
-    {
-        "name": "Beginner Pack",
-        "levels": [
             "hypersonic",
             "forbidden_isle",
             "misty_mountains"
         ],
         "colour": " linear-gradient(45deg, rgba(0,28,255,1) 0%, rgba(0,4,57,1) 10%, rgba(0,28,255,1) 20%, rgba(0,4,57,1) 30%, rgba(0,28,255,1) 40%, rgba(0,4,57,1) 50%, rgba(0,28,255,1) 60%, rgba(0,4,57,1) 70%, rgba(0,28,255,1) 80%, rgba(0,4,57,1) 90%, rgba(0,28,255,1) 100%)"
-    },
-    {
-        "name": "Terraria Pack",
-        "levels": [
-            "the_sulphur_sea",
-            "ancestral_calamity",
-            "anahita",
-            "brimtanic_paradise"
-        ],
-        "colour": "linear-gradient(45deg, rgba(39,18,98,1) 0%, rgba(145,62,172,1) 50%, rgba(246,189,255,1) 100%)"
     },
     {
         "name": "Nine Circles Pack",

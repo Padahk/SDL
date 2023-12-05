@@ -109,19 +109,9 @@
         "levels": [
             "ruber_cash_22",
             "falcon16",
-            "4elements"
+            "a4elements"
         ],
         "colour": "linear-gradient(45deg, rgba(89,89,89,1) 0%, rgba(255,255,255,1) 100%)"
-    },
-    {
-        "name": "Breaking Bad Pack",
-        "levels": [
-            "saul_goodman",
-            "walter_white",
-            "jesse_pinkman",
-            "gustavo_fring"
-        ],
-        "colour": "url('https://media1.s-nbcnews.com/i/streams/2013/August/130808/6C8558749-130808-walter-white-tease.jpg')"
     },
     {
         "name": "Fish Pack",
@@ -150,18 +140,6 @@
             "quaoar_viprin"
         ],
         "colour": "linear-gradient(45deg, rgba(255,0,0,1) 0%, rgba(223,36,255,1) 50%, rgba(255,242,252,1) 100%)"
-    },
-    {
-        "name": "Femboy Pack",
-        "levels": [
-            "shukketsu",
-            "fragile",
-            "wasureta",
-            "kuzureta",
-            "misfire",
-            "niwa"
-        ],
-        "colour": "url('https://steamuserimages-a.akamaihd.net/ugc/2024968295732239045/514AB17708A792AF2206262AD053E028897B7A0D/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false`)"
     },
     {
         "name": "Cognition Pack",
@@ -193,16 +171,6 @@
             "red_world"
         ],
         "colour": "linear-gradient(90deg, rgba(36,64,29,1) 0%, rgba(7,255,0,1) 46%, rgba(36,64,29,1) 100%)"
-    },
-    {
-        "name": "Zoink Pack",
-        "levels": [
-            "acheron",
-            "avernus",
-            "kocmoc",
-            "tunnel_of_despair"
-        ],
-        "colour": "url('https://media.discordapp.net/attachments/1124524232647397396/1124874669418356868/flabberghasted.png')"
     },
     {
         "name": "Norse Mythology Pack",

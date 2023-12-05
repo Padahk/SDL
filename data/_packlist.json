@@ -94,7 +94,7 @@
         "levels": [
             "pure_vale",
             "tornado",
-            "beeline_2p",
+            "beeline_2p"
         ],
         "colour": "linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,115,121,1) 49%, rgba(0,142,255,1) 100%)"
     },
